@@ -1,0 +1,1 @@
+Nos permite escribir por aproximación log(n!) como nlog(n)

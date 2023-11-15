@@ -1,0 +1,1 @@
+Administrado en arquitecturas Intel viejas por 8259A

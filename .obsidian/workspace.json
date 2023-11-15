@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53870b12dbd098c7",
+        "id": "1ad771a1836079e5",
         "type": "tabs",
         "children": [
           {
-            "id": "04039a09af1dc212",
+            "id": "74ddae3f7edd1683",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fd38b06bce5fbd4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidad y estadistica/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98c1fd626f787b0b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,15 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ed6d788201d30fe",
+  "active": "74ddae3f7edd1683",
   "lastOpenFiles": [
-    "2023-06-22.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2023-11-15.md",
+    "AED/Algoritmos/Sorting.md",
+    "AED/Aproximación de Stirling.md",
+    "AED/Arboles de decisión.md",
+    "AED/Algoritmos/Divide & Conquer.md",
+    "AED/Algoritmos/Floyd-Marshall.md",
+    "README.md",
+    "AED/capturas/Pasted image 20231115005051.png",
+    "AED/capturas/Pasted image 20231114001229.png",
+    "AED/capturas/Pasted image 20231114000742.png",
+    "AED/Estructuras de datos/Heap.md",
+    "Orga/Microprogramacion/Microprogramación.md",
+    "AED/Estructuras de datos/AVL.md",
+    "AED/Estructuras de datos",
+    "AED/Algoritmos",
+    "AED/Estructuras de datos/BST.md",
+    "AED/Estructuras de datos/Hash Tables.md",
+    "AED/Estructuras de datos/Tries.md",
+    "AED/capturas/Pasted image 20231106184924.png",
+    "AED/capturas/Pasted image 20231106184549.png",
+    "AED/capturas",
+    "Orga/Microprogramacion/Unidad de control.md",
+    "Orga/Microprogramacion/DataPath.md",
     "Backend/usuario administrador.md",
     "Backend/CRUD.md",
-    "Untitled.canvas",
-    "2023-06-21.md",
-    "Probabilidad y estadistica/Untitled.md",
-    "Probabilidad y estadistica",
-    "Backend"
+    "Pasted image 20231106184551.png.md",
+    "Pasted image 20231106184551.png",
+    "AED",
+    "Orga/capturas/Pasted image 20231026175407.png",
+    "Orga/capturas/Pasted image 20231026180129.png",
+    "Orga/Ejercicios clase interrupciones.md",
+    "Orga/Input-Output/I-O modes/Direct Memory Access (DMA).md",
+    "Orga/Input-Output/I-O modes/I-O modes.md",
+    "Orga/Input-Output/I-O modes/Interrupciones.md",
+    "Orga/Input-Output/I-O modes/Polling.md",
+    "Orga/Input-Output/Programmed Input-Output (PIO).md",
+    "Orga/Input-Output/Método de acceso a dispositivos/Acceso mapeado a memoria.md",
+    "Orga/Input-Output/I-O modes",
+    "Orga/Input-Output/Método de acceso a dispositivos",
+    "Orga/Microprogramacion",
+    "Orga/capturas",
+    "Orga/capturas/Pasted image 20231026030341.png",
+    "Untitled 2.canvas",
+    "Orga/Input-Output",
+    "Orga"
   ]
 }

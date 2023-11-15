@@ -1,0 +1,1 @@
+Dicho de forma simple, es un modo de operar las I/O de forma que siempre estamos preguntado al dispositivo si hay o no nueva información.

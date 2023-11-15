@@ -1,0 +1,1 @@
+La que maneja Orga1 (reserva direcciones de memoria en 0xFFF0 a 0xFFFF). Son direcciones de memoria principal reservadas para E/S.

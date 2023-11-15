@@ -1,0 +1,1 @@
+Se la puede llamar entrada/salida independiente (instrucciones especiales IN y OUT). En esta la entrada/salida tiene cada una un registro independiente.

@@ -1,0 +1,1 @@
+Estándar para acceso a dispositivos (velocidad en que transfieren los buses, etc.). El acceso de entrada salida con el disco es programado por la CPU
